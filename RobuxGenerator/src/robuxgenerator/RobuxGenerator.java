@@ -15,6 +15,7 @@ public class RobuxGenerator {
      */
     public static void main(String[] args) {
         System.out.println("10$Robux");
+        System.out.println("Its a Scam!!");
     }
     
 }

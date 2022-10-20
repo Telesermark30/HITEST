@@ -14,8 +14,7 @@ public class RobuxGenerator {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("10$Robux");
-        System.out.println("Its a Scam!!");
+        System.out.println("Chnages");
     }
     
 }
